@@ -53,7 +53,7 @@ The average margin of victory fell from 11.70% in 2021 to 7.67% in 2026.
 | Trivedi Centre for Political Data, Ashoka University | 2021 constituency results |
 | Codebasics RPC Starter Pack | Cleaned and structured CSVs |
 | ADR / myneta.info | Candidate affidavit data, sourced from ECI |
-| Kaggle — TN Constituency Map | Polygon geometry for map visual |
+| Kaggle — TN Constituency Map | Polygon geometry for map visual https://www.kaggle.com/datasets/mannaramuthan/tamil-nadu-assembly-constituencies-geo-data-2021?resource=download |
 
 **Non-partisan analysis. No exit polls. No news articles. No opinion data.**
 
@@ -64,7 +64,7 @@ The average margin of victory fell from 11.70% in 2021 to 7.67% in 2026.
 | Tool | Purpose |
 |---|---|
 | Microsoft Excel | Data exploration and pivot analysis |
-| Python — Pandas, Selenium, Plotly, Shapely | Scraping, cleaning, Sankey chart |
+| Python — Pandas, Selenium, Plotly, Shapely | Cleaning, Sankey chart |
 | Power BI Desktop | Interactive dashboard |
 | Microsoft PowerPoint | Pitch deck |
 
