@@ -41,7 +41,7 @@ The average margin of victory fell from 11.70% in 2021 to 7.67% in 2026.
 | Pitch Deck | 17-slide presentation for AtliQ Media leadership |
 | Power BI Dashboard | 2-page interactive dashboard |
 | Presentation Video | 5-7 minute video walkthrough |
-| Python Notebooks | Data cleaning, Sankey chart, web scraping |
+| Python Notebooks | Data Cleaning and Asset Generation |
 
 ---
 
