@@ -96,4 +96,4 @@ media data were used at any stage of this analysis.
 **Aditya Dixit**
 Codebasics Resume Project Challenge — May 2026
 
-[LinkedIn](#) | [Video Walkthrough](#)
+[[LinkedIn]](https://www.linkedin.com/in/adityadixit97/)(#) | [Video Walkthrough](#)
