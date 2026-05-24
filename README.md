@@ -73,11 +73,11 @@ The average margin of victory fell from 11.70% in 2021 to 7.67% in 2026.
 ## Folder Structure
 
 tn-election-2026-analysis/
-├── codebasics-dossier/     # Original files provided by Codebasics
-├── pitch-deck/             # Main PPT presentation
-├── dashboard/              # Power BI file, data, notebooks
-├── presentation/           # Video link
-└── assets/                 # Supporting visuals
+- input_files_for_participants # Original files provided by Codebasics
+- pitch_deck # Main PPT presentation
+- dasbboard # Power BI file, data, notebooks
+- presentation # Video link
+- assets # Supporting visuals
 
 ---
 
